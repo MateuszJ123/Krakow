@@ -1,0 +1,63 @@
+.menu
+{
+	display: inline-block;
+	width: 100%;
+	background-color: grey;
+	text-align: centre;
+}
+.menu li
+ {
+	list-style: none;
+	display: inline-block;
+	padding: 15px 40px;
+}
+.menu a
+{
+	text-decoration: none;
+	color: rgb(21, 15, 69);
+	font-size: 2.5em;
+}
+.menu a:hover 
+{
+	color: rgb(12, 37, 37);
+	font-size: 2.6em;
+}
+footer 
+{
+	width: 100%;
+	background-color: grey;
+	text-align: center;
+}
+footer p
+{ 
+	margin: 0;
+	padding: 17px;
+}
+body 
+{
+	background-color: #3A8F89;
+}
+h1
+ {
+	text align: centre;
+}
+
+img
+{
+	width: 500px;
+}
+
+table tr,td, th 
+{ 
+	border: 1px solid blue;
+	background:  #3A8F89;
+	
+}
+
+.text-center {
+	text-align: center;
+}
+
+	
+
+	
